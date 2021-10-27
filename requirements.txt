@@ -1,0 +1,6 @@
+speechrecognition
+wave
+moviepy
+textract
+transformers
+pysimplegui
